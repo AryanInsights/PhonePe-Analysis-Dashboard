@@ -144,9 +144,20 @@ Total Trans MOM% =
 
 ---
 
+👤 Author
+
+Aryan Kumar
+
+
+📧 Email: aryankumar.ak929@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/aryankumar4
+🐙 GitHub: https://github.com/AryanInsights
+
+
 ## 📄 License
 
 This project is for educational and portfolio purposes only.
+
 Data used is synthetic/sample data and does not represent real PhonePe user information.
 
 ---
